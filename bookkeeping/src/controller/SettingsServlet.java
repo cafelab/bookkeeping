@@ -87,7 +87,6 @@ public class SettingsServlet extends HttpServlet {
 		editUser.setPassword(request.getParameter("password"));
 		editUser.setEmail(request.getParameter("email"));
 		editUser.setDescription(request.getParameter("description"));
-		editUser.setIcon(getIcon(request));
 		return editUser;
 	}
 
