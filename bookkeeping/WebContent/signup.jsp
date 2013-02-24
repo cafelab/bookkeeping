@@ -32,7 +32,7 @@
 	<label for="description">説明</label>
 	<textarea name="description" cols="35" rows="5" id="description"></textarea><br />
 	<input type="submit" value="登録" /><br />
-	<a href="戻るる"></a>
+	<a href="../">トップに戻る</a>
 </form>
 <div class="copyright">Copyright(c)Yukinori Isoya</div>
 </div>
