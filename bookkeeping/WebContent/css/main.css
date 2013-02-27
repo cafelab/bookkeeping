@@ -1,0 +1,30 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0px;
+    font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    color: black;
+    background-color: rgb(255, 242, 192);
+}
+
+.main-contents {
+    padding: 12px;
+}
+
+.footer {
+    background-color: rgb(129, 68, 20);
+    font-size: 12px;
+    padding: 5px;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
