@@ -14,6 +14,6 @@ public class TopServlet extends HttpServlet {
 
 	@Override
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		request.getRequestDispatcher("/top.jsp").forward(request, response);
+		request.getRequestDispatcher("/jsp/top.jsp").forward(request, response);
 	}
 }

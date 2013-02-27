@@ -41,7 +41,7 @@ public class SettingsServlet extends HttpServlet {
 			session.setAttribute("editUser", editUser);
 		}
 
-		request.getRequestDispatcher("settings.jsp").forward(request, response);
+		request.getRequestDispatcher("/jsp/settings.jsp").forward(request, response);
 	}
 
 	@Override
