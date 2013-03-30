@@ -15,8 +15,25 @@ body {
     background-color: rgb(255, 242, 192);
 }
 
+.navbar {
+    position: fixed;
+    display: block;
+    top: 0px;
+    width: 100%;
+    padding: 6px;
+    background-color: rgb(76, 76, 76);
+}
+
+.navbar .logo {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+    color: white;
+}
+
 .main-contents {
     padding: 12px;
+    margin-top: 50px;
 }
 
 .footer {

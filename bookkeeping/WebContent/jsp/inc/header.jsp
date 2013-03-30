@@ -9,4 +9,7 @@
 <title>家計簿アプリ</title>
 </head>
 <body>
+<div class="navbar">
+<span class="logo">家計簿</span>
+</div>
 <div class="main-contents">
