@@ -5,7 +5,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="Stylesheet" href="/bookkeeping/css/main.css" />
+<link href="/bookkeeping/css/bootstrap.min.css" rel="stylesheet" media="screen">
+<link href="/bookkeeping/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
+<link href="/bookkeeping/css/main.css" rel="stylesheet">
 <title>家計簿アプリ</title>
 </head>
 <body>
